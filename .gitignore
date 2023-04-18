@@ -1,0 +1,17 @@
+.idea
+target/
+*.iml
+!main.iml
+/dist
+/lib
+
+*.class
+demo/*.txt
+demo/**/*.txt
+
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
